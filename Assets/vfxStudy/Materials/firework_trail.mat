@@ -65,7 +65,7 @@ Material:
     - _Glossiness: 0.5
     - _GlossyReflections: 1
     - _Intencity: 0.1
-    - _Limit: 5
+    - _Limit: 2
     - _Metallic: 0
     - _Mode: 0
     - _OcclusionStrength: 1
